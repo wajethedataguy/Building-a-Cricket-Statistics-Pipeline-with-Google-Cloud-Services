@@ -2,6 +2,8 @@
 
 ***Designing a Scalable Cricket Data Pipeline with Google Cloud***
 In today’s data-driven world, transforming raw sports data into actionable insights requires a well-orchestrated pipeline. This project showcases the complete journey of building a cricket statistics pipeline using the robust suite of Google Cloud services. From fetching real-time data through the Cricbuzz API to presenting it on an interactive Looker Studio dashboard, every stage — from extraction to visualization — is carefully designed to ensure smooth and efficient data flow. It’s a hands-on demonstration of how cloud-native tools can power modern data engineering solutions in the field of sports analytics.
+
+
 ***ARCHITECTURE***
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/1c8b118d-ad8a-4781-9501-861040a86668)
 
@@ -23,3 +25,9 @@ A Dataflow job, triggered by the orchestration layer, transforms and loads the d
 
 ***📊 Building an Interactive Dashboard with Looker Studio***
 With the processed data now in BigQuery, Looker Studio is used to create an engaging and insightful dashboard. The final product enables dynamic visualization of cricket statistics, turning raw data into decision-ready insights.
+
+***DASHBOARD***
+
+![image](https://github.com/user-attachments/assets/7aa05e96-2825-4452-81d4-32f7786be12f)
+
+
