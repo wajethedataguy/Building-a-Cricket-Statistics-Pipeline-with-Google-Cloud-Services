@@ -2,6 +2,9 @@
 
 ***Designing a Scalable Cricket Data Pipeline with Google Cloud***
 In today’s data-driven world, transforming raw sports data into actionable insights requires a well-orchestrated pipeline. This project showcases the complete journey of building a cricket statistics pipeline using the robust suite of Google Cloud services. From fetching real-time data through the Cricbuzz API to presenting it on an interactive Looker Studio dashboard, every stage — from extraction to visualization — is carefully designed to ensure smooth and efficient data flow. It’s a hands-on demonstration of how cloud-native tools can power modern data engineering solutions in the field of sports analytics.
+***ARCHITECTURE***
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/1c8b118d-ad8a-4781-9501-861040a86668)
+
 
 ***🔍 Data Extraction with Python and the Cricbuzz API***
 The journey kicks off by tapping into the Cricbuzz API using Python to extract real-time cricket statistics. Python's robust API integration capabilities help automate and streamline the data collection process, ensuring a consistent flow of fresh data.
