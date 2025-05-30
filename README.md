@@ -7,7 +7,6 @@ In today’s data-driven world, transforming raw sports data into actionable ins
 ***ARCHITECTURE***
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/1c8b118d-ad8a-4781-9501-861040a86668)
 
-
 ***🔍 Data Extraction with Python and the Cricbuzz API***
 The journey kicks off by tapping into the Cricbuzz API using Python to extract real-time cricket statistics. Python's robust API integration capabilities help automate and streamline the data collection process, ensuring a consistent flow of fresh data.
 
